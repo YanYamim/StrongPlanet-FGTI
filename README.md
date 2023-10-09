@@ -30,6 +30,9 @@ Diminuição do custo da conta de luz
 
 Orçamento:
 
+![Captura de tela 2023-09-26 123437](https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/870f9418-fedb-41da-8957-6f99c2d4c005)
+
+
 Personas:
 
 1) Marcos: file:///C:/Users/yanya/Downloads/page_7662_638321837399468478.pdf
