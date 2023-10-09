@@ -40,6 +40,8 @@ Personas:
 
 Project Model Canvas
 
+![Captura de tela 2023-10-06 115136](https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/6325b00e-d5a3-4d60-81a3-21ce9f38eac2)
+
 Planejamento
 
 Ciclo 1 -  10/09 a 10/10
