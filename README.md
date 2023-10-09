@@ -48,26 +48,27 @@ Project Model Canvas
 Planejamento
 
 Ciclo 1 -  10/09 a 10/10
-  Concepção do projeto (Prioridade: Alta)
-  Escopo (Prioridade: Alta)
-  Definição da equipe (Prioridade: Média)
-  Criação de personas (Prioridade: Baixa)
+  . Concepção do projeto (Prioridade: Alta)
+  . Escopo (Prioridade: Alta)
+  . Definição da equipe (Prioridade: Média)
+  . Criação de personas (Prioridade: Baixa)
 
 Ciclo 2 - 10/10 a 12/11
-  Contato com fornecedores dos materiais (Prioridade: Alta)
-  Arquitetura das máquinas (Prioridade: Alta)
-  Contato com investidores (Prioridade: Média)
+  . Contato com fornecedores dos materiais (Prioridade: Alta)
+  . Arquitetura das máquinas (Prioridade: Alta)
+  . Contato com investidores (Prioridade: Média)
 
 Ciclo 3 - 13/11 a 15/12
-  Teste das máquinas (Prioridade: Alta)
-  Contato com distribuidoras (Prioridade: Alta)
-  Planejamento da logística de entrega (Prioridade: Média)
-  Firmar parcerias (Prioridade: Baixa)
-  Criar o folheto de brinde (Prioridade: Baixa)
-  Ciclo 4 - 1/01 a 25/01
-  Lançamento do projeto (Prioridade: Alta)
-  Distribuir para às academia e domicílios (Prioridade: Alta)
-  Campanha de marketing para o lançamento (Prioridade: Alta)
-  Atualização das redes sociais (Prioridade: Média)
-  Manutenção das máquinas (Prioridade: Média)
+  . Teste das máquinas (Prioridade: Alta)
+  . Contato com distribuidoras (Prioridade: Alta)
+  . Planejamento da logística de entrega (Prioridade: Média)
+  . Firmar parcerias (Prioridade: Baixa)
+  . Criar o folheto de brinde (Prioridade: Baixa)
+ 
+Ciclo 4 - 1/01 a 25/01
+  . Lançamento do projeto (Prioridade: Alta)
+  . Distribuir para às academia e domicílios (Prioridade: Alta)
+  . Campanha de marketing para o lançamento (Prioridade: Alta)
+  . Atualização das redes sociais (Prioridade: Média)
+  . Manutenção das máquinas (Prioridade: Média)
 
