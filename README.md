@@ -60,7 +60,7 @@ Ciclo 2 - 10/10 a 12/11
 
 Ciclo 3 - 13/11 a 15/12
   . Teste das máquinas (Prioridade: Alta)
-  . Contato com distribuidoras (Prioridade: Alta)
+  . Contato com distribuidoras (Prioridade: Alta) 
   . Planejamento da logística de entrega (Prioridade: Média)
   . Firmar parcerias (Prioridade: Baixa)
   . Criar o folheto de brinde (Prioridade: Baixa)
@@ -70,5 +70,5 @@ Ciclo 4 - 1/01 a 25/01
   . Distribuir para às academia e domicílios (Prioridade: Alta)
   . Campanha de marketing para o lançamento (Prioridade: Alta)
   . Atualização das redes sociais (Prioridade: Média)
-  . Manutenção das máquinas (Prioridade: Média)
+  . Manutenção das máquinas (Prioridade: Média)  
 
