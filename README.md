@@ -44,8 +44,9 @@ Personas
 
 
 ## Orçamento
-<img src = "https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/5a3be3ad-24a4-4dc4-928a-a6232de03be0" width = 300 px>
+<img src = "https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/5a3be3ad-24a4-4dc4-928a-a6232de03be0" width = 500 px>
 
 ## Project Model Canvas
+<img align = center src = "https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/1074a959-e4d7-449d-94c9-3018a4a03926" width = 700px>
 
-
+## Product Backlog
