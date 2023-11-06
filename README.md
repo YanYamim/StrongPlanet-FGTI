@@ -44,4 +44,8 @@ Personas
 
 
 ## Orçamento
+<img src = "https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/5a3be3ad-24a4-4dc4-928a-a6232de03be0" width = 300 px>
+
+## Project Model Canvas
+
 
