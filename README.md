@@ -33,5 +33,7 @@ Desenvolvedores de Software
 Marketeiros
 
 Personas
+Marcos
 
+![Captura de tela 2023-11-06 150015](https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/94491354-778d-466d-a29a-e76ed7e5708f)
 
