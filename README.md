@@ -36,6 +36,8 @@ Personas
 + Marcos
 <img src = "https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/94491354-778d-466d-a29a-e76ed7e5708f" width = 300px>
 + Carlos
+<img src = "https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/3e2cd204-0157-4b17-afb4-7945cec43e24" width = 300px>
 + Michelle
+<img src = "" width = 300px>
 
 
