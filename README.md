@@ -90,7 +90,6 @@ Personas
 |   5    | 10/11 a 25/11         | - Reciclagem de Componentes         |
 |        |                       | - Integração com Fontes de Energia |
 |        |                       | - Teste das Máquinas               |
-|        |                       | - Criar o folheto de brinde        |
 |        |                       | - Teste definitivo das máquinas,  apresentação dos componentes recicláveis e seus destinos   |
 |   6    | 25/11 a 1/12           | - Contato com distribuidoras       |
 |        |                       | - Planejamento da logística de entrega     |
