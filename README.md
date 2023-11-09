@@ -26,7 +26,7 @@
 + Bateria que fará a esteira funcionar 
 + Transformador que irá converter a corrida em eletricidade
 
-### Mão de obra
+### Mão de obra:
 + Designers
 + Engenheiros elétricos
 + Arquitetos
