@@ -1,4 +1,4 @@
-<h1 align = center>StrongPlanet</h1>
+<h1 align = center>StrongPlanet 🌱💪🏻💪🏿🌱</h1>
 
 ## Projeto: Desenvolvimento de equipamentos de academia sustentáveis
 
@@ -6,12 +6,12 @@
 
 ## Escopo do Projeto
 
-## Recursos disponíveis:
+### Recursos disponíveis:
 + Equipe pequena
 + Orçamento razoável
 + Uma pessoa responsável pelo SM, PO e a gerência do projeto
 
-## Funcionalidades essenciais:
+### Funcionalidades essenciais:
 + Esteira que se mexe no intuito de fazer o usuário andar ou correr
 
 + Um transformador de energia que transformará a energia mecânica em elétrica
@@ -19,20 +19,20 @@
 
 + Um painel que conta a frequência cardíaca, calorias consumidas, quantos quilômetros corridos, distância percorrida, ajustes de altura da esteira e um  software que faz uma avaliação no mês de quanto foi economizado de energia e quantos Watt/h foram gerados.
 
-## Materiais:
+### Materiais:
 + Painel com tecnologia de botões que alteram a velocidade e a altura da esteira
 + Aço inoxidável
 + Bateria que fará a esteira funcionar 
 + Transformador que irá transformar a corrida em eletricidade</p>
 
-## Mão de obra
-Designers
-Engenheiros elétricos
-Arquitetos
-Desenvolvedores de Software
-Marketeiros
+### Mão de obra
++ Designers
++ Engenheiros elétricos
++ Arquitetos
++ Desenvolvedores de Software
++ Marketeiros
 
-Personas
+## Personas
 ### Marcos 
 <img src = "https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/94491354-778d-466d-a29a-e76ed7e5708f" width = 300px>
 
