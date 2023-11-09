@@ -1,8 +1,8 @@
 <h1 align = center>StrongPlanet 🌱💪🏻💪🏿🌱</h1>
 
-## Projeto: Desenvolvimento de equipamentos de academia sustentáveis
+<h2 align = center>Desenvolvimento de esteiras sustentáveis para academias!</h2>
 
-### Visão Geral do Projeto: O objetivo deste projeto é criar uma esteira que transforma a energia mecânica do usuário em energia elétrica. Criando assim uma nova forma de fazer exercício de forma sustentável.
+<h3 align = center>O objetivo deste projeto é criar uma esteira que transforma a energia mecânica do usuário em energia elétrica. Criando um novo estilo de vida que contribui para a saúde das pessoas e do planeta</h3>
 
 ## Escopo do Projeto
 
@@ -15,15 +15,16 @@
 + Esteira que se mexe no intuito de fazer o usuário andar ou correr
 
 + Um transformador de energia que transformará a energia mecânica em elétrica
+
 + O equipamento terá uma bateria interna que se auto alimenta com o esforço da pessoa, parte da energia gerada vai para essa bateria.
 
-+ Um painel que conta a frequência cardíaca, calorias consumidas, quantos quilômetros corridos, distância percorrida, ajustes de altura da esteira e um  software que faz uma avaliação no mês de quanto foi economizado de energia e quantos Watt/h foram gerados.
++ Um painel que conta a frequência cardíaca, calorias consumidas, quantos quilômetros corridos, distância percorrida, ajustes de inclinação e um  software que faz uma avaliação no mês de quanto foi economizado de energia e quantos Watt/h foram gerados.
 
 ### Materiais:
-+ Painel com tecnologia de botões que alteram a velocidade e a altura da esteira
++ Painel com tecnológico
 + Aço inoxidável
 + Bateria que fará a esteira funcionar 
-+ Transformador que irá transformar a corrida em eletricidade</p>
++ Transformador que irá converter a corrida em eletricidade
 
 ### Mão de obra
 + Designers
@@ -32,7 +33,7 @@
 + Desenvolvedores de Software
 + Marketeiros
 
-## Personas
+## Personas 👥
 ### Marcos 
 <img src = "https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/94491354-778d-466d-a29a-e76ed7e5708f" width = 300px>
 
@@ -43,10 +44,10 @@
 <img src = "https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/68eb3fb2-aadf-4e31-8278-f1f1d41c4db6" width = 300px>
 
 
-## Orçamento
+## Orçamento 💰
 <img src = "https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/5a3be3ad-24a4-4dc4-928a-a6232de03be0" width = 500 px>
 
-## Project Model Canvas
+## Project Model Canvas 📋
 <img align = center src = "https://github.com/YanYamim/StrongPlanet-FGTI/assets/119015786/1074a959-e4d7-449d-94c9-3018a4a03926" width = 700px>
 
 ## Product Backlog
