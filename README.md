@@ -2,7 +2,7 @@
 
 <h2 align = center>Desenvolvimento de esteiras sustentáveis para academias!</h2>
 
-<h3 align = center>Nos dias de hoje, estamos precisando cada vez mais que as pessoas se familiarizarem com a prática de exercícios e, principalmente, de se conscientizarem sobre os cuidados do meio ambiente. Portanto, unimos o melhor dos dois mundos e nosso objetivo é criar uma esteira que transforma a energia mecânica do usuário em energia elétrica. Criando um novo estilo de vida qnde as pessoas e o planeta são mais fortes 💪</h3>
+<h3 align = center>Nos dias de hoje, estamos precisando cada vez mais que as pessoas se familiarizarem com a prática de exercícios e, principalmente, de se conscientizarem sobre os cuidados do meio ambiente. Portanto, unimos o melhor dos dois mundos e nosso objetivo é criar uma esteira que transforma a energia mecânica do usuário em energia elétrica. Criando um novo estilo de vida onde as pessoas e o planeta são mais fortes 💪</h3>
 
 ## Escopo do Projeto
 
